@@ -1,0 +1,2 @@
+# doc-ideascube
+Ideascube documentation

@@ -4,7 +4,7 @@ title: 'Manually Download a Content Package'
 
 _This option requires you to know how to use Linux._
 
-Content packages can be file groupings within a ZIP archive, compressed statics sites, or ZIM format archives.  They can contain offline versions of Wikipedia and many other resources.
+Content packages can be file groupings within a ZIP archive, compressed static sites, or ZIM format archives.  They can contain offline versions of Wikipedia and many other resources.
 
 Content packages are thus pre-selected media that may or may not meet your needs.
 

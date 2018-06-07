@@ -2,8 +2,6 @@
 title: Users
 ---
 
-# Users
-
 The user section of the interface can be accessed by everybody.
 
 ## Blog

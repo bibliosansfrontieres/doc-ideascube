@@ -75,6 +75,8 @@ The Ideascube command can accept as many packages as you would like in an argume
 
 ## Deleting a Package
 
+Follow the following formula to delete a content packet:
+
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog remove apprenez-le-francais-niveau-a1-fr
 ```

@@ -5,7 +5,7 @@ media_order: 'Capture du 2018-01-11 15-29-32.png,Capture du 2018-03-13 20-18-03.
 
 To create a new post, start by clicking on the **Blog** section.
 
-When you are signed in as an administrator, a new menu will appear at the right of the screen **Add a post**.
+When you are signed in as an administrator, a new menu will appear at the right of the screen to **Add a post**.
 
 ## Adding a Blog Post
 
@@ -27,6 +27,11 @@ When you are signed in as an administrator, a new menu will appear at the right 
 
 
 ## Modify a Blog Post
+
 ![](Capture%20du%202018-03-13%2020-18-03.png)
 
+Use the **Edit** button at the right of the page to modify a blog post. 
+
 ## Delete a blog post
+
+To delete a post, once again click **Edit**.  From there, you can delete the post, which will be deleted once you confirm.

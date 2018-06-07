@@ -1,11 +1,11 @@
 ---
-title: 'Ajout d''un nouvel utilisateur'
+title: 'Adding a New User'
 ---
 
-Cliquez dans le menu de droite cliquez sur **Ajouter un utilisateur** puis, renseignez :
-- **Serial** : login de l'utilisateur
-- **Nom complet** : le nom complet de l'utilisateur  
+Click on **Add a user** in the right-hand menu, then enter:
 
-Dans le menu de droite, cliquez sur **Set password** pour ajouter un mot de passe à l'utilisateur que vous venez de créer
+- **Serial**: the user’s username
+- **Full name**: the user’s full name
 
-Dans le menu de droite, cliquez sur **Add staff status** pour ajouter les droits administrateurs
+In the right-hand menu, click on **Set password** to add a password to the user you have just created. In the right-hand menu, click on **Add staff status** to add administrator rights.
+

@@ -12,7 +12,7 @@ Here, for example, we are going to edit the **admin** account. Click on the **ad
 
 ### Step 2
 
-In the right-hand menu, click on **Modify**)
+In the right-hand menu, click on **Modify**
 
 ![](modifier.png)
 

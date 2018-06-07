@@ -1,25 +1,25 @@
 ---
-title: 'Téléchargement manuel de paquets'
+title: 'Manually Download a Group of Files'
 ---
 
-_Cette méthode requiert des compétences dans l'administration d'un système d'exploitation Linux._
+_This option requires you to understand the administration of a Linux system._
 
-Les paquets de contenus peuvent être des regroupements de fichiers au sein d'une archive au format ZIP, des sites statics compressés ou encore des archives au format ZIM qui contiennent des version offline de wikipedia et bien d'autres ressources.
+Content packages can be file groupings within a ZIP archive, compressed statics sites, or ZIM format archives.  They can contain offline versions of Wikipedia and many other resources.
 
-Les paquets de contenus sont donc des médias pré-sélectionnés  qui peuvent correspondre à vos besoins ou non
+Content packages are thus pre-selected media that may or may not meet your needs.
 
-## Les catalogues de contenus
+## Content Catalogues
 
-Tous ces paquets de contenus sont référencés dans des catalogues : [http://catalog.ideascube.org/](http://catalog.ideascube.org/)
+All the content packs can be viewed in these catalogs: [http://catalog.ideascube.org/](http://catalog.ideascube.org/)
 
-Voici quelques catalogues fréquements utilisés
+Here are some catalogues that are frequently used: 
 
 * [Kiwix](http://www.kiwix.org/fr/) : [http://catalog.ideascube.org/kiwix.yml.html](http://catalog.ideascube.org/kiwix.yml.html)
-* Sites statics : [http://catalog.ideascube.org/static-sites.yml.html](http://catalog.ideascube.org/static-sites.yml.html)
-* Cartes [Open Street Map](http://openstreetmap.fr/) offline : [http://catalog.ideascube.org/osmaps.yml.html](http://catalog.ideascube.org/osmaps.yml.html)
-* [Bibliothèques sans frontières](http://bibliosansfrontieres.org/) : [http://catalog.ideascube.org/omeka.yml.html](http://catalog.ideascube.org/omeka.yml.html)
+* Static sites: [http://catalog.ideascube.org/static-sites.yml.html](http://catalog.ideascube.org/static-sites.yml.html)
+* [Open Street Map](http://openstreetmap.fr/) offline : [http://catalog.ideascube.org/osmaps.yml.html](http://catalog.ideascube.org/osmaps.yml.html)
+* [Libraries Without Borders](https://www.librarieswithoutborders.org/) : [http://catalog.ideascube.org/omeka.yml.html](http://catalog.ideascube.org/omeka.yml.html)
 
-Tout ces catalogues sont ajoutés automatiquement sur les serveur IdeasBox et les KoomBook, cependant vous pouvez vérifier leurs présences
+All of these catalogues are automatically added to the IdeasBox and KoomBook servers.  However, you can verify their presence: 
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog remotes list
@@ -36,45 +36,44 @@ Importing settings from ideascube.conf.idb
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog remotes -h
 ```
+The argument **-h** allows you to view the list of actions to manage the catalogue (add, delete, list)
 
-L''argument **-h **vous permet d'afficher la liste des actions disponibles  pour la gestion des catalogues \(ajout, suppression, liste\)
+## Listing Available Content
 
-## Listing des contenus disponibles
-
-Pour lister l'ensemble des contenus disponible dans ces catalogues, vous pouvez lancer la commande suivante
+To list all of the content available in the catalogues, you can run this command: 
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog list
 ```
 
-Activer la pagination avec l'option** **`more`
+Enable pagination by selecting **`more`**
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog list | more
 ```
 
-Chaque paquet est présenté de la sorte :
+Each packet is presented like this:
 
-| Nom du paquet | Version \(date\) | Taille | Type | Description |
+| Nom du paquet | Version \(date\) | Size | Type | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | apprenez-le-francais-niveau-a1-fr | 2017-10-27 | 549.0 MB | zipped-medias | Apprenez le français - Niveau A1 |
 | wikipedia.sw | 2017-01-09 | 498.7 MB | zipped-zim | Wikipedia |
 
-## Installation d'un paquet de contenu
+## Installing a Content Package
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog install apprenez-le-francais-niveau-a1-fr wikipedia.sw
 ```
 
-La commande ideascube à l'avantage de pouvoir prendre autant de noms de paquets que vous souhaitez en argument, chaque paquet doit être séparé par un **espace**
+The Ideascube command can accept as many packages as you would like in an argument.  Each package must be separated by a **space**.
 
-**INFORMATION IMPORTANTE**
+**Important Information**
 
-* Vérifiez bien le champ `taille` et veillez à ce qu'il soit en adéquation avec votre connexion Internet. En effet, plus vous allez ajouter de contenus à télécharger et plus le traitement sera long.
-* Veillez à avoir au minimum à chaque fois le double de l'espace occupé par un paquet de contenus sur votre espace de stockage
-* Pour chaque paquet installé, un lien en page d'accueil sera créé, si vous souhaitez le désactiver référez vous à la [Gestion de la page d'accueil](/gestion_de_la_page_daccueil.md)
+* Check the `size` of your file, and make sure the internet connection is adequate.  The more content you add, the longer it will take to download.
+* Make sure you have at least twice the space necessary available in your storage space
+* For each package installed, a link on the welcome page will be created.  If you want to deactivate this go to: [Gestion de la page d'accueil](/gestion_de_la_page_daccueil.md)
 
-## Suppression d'un paquet
+## Deleting a Package
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog remove apprenez-le-francais-niveau-a1-fr

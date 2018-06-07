@@ -8,7 +8,7 @@ This is done through the following steps:
 
 - Search for a wireless hotspot that refers to the IDB server 
 - Connect to this network the same way you connect to any other wireless network.  Don't forget you need the credential number. 
-- Go to the web browser.  We prefer to use the browser firefox as its percentage of information security is higher than other browsers
+- Go to the web browser.  We prefer to use Firefox as its percentage of information security is higher than other browsers
 - In the URL bar, enter the URL of the server: **ideasbox.lan**. You will be redirected to the graphical interface of the server and you can browse all the options available for you.
 
 ** Note **

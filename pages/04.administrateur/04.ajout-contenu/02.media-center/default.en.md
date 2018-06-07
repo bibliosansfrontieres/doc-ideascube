@@ -6,6 +6,8 @@ With this option, you have to import each file manually, one by one.  There does
 
 To add new media, you must first go to the **Media Center section**.
 
+![](1.png)
+
 You can import import the following types of media:
 
 - Images
@@ -16,13 +18,15 @@ You can import import the following types of media:
 - E-books
 - IT applications
 
->>>>>>Tags can be used to sort media files by area of interest.  If you use the same key word for all files of a certain type you can create different, easily searchable, collections. 
+>>>>>>Tags can be used to sort media files by area of interest.  If you use the same keyword for all files of a certain type you can create different, searchable, collections. 
 
 ## Add a Document
 
-Once signed in as Administrator, you can select the option **Add a document** from the menu at the right of the screen.  You will then be asked to fill in certain information
+Once signed in as Administrator, you can select the option **Add a document** from the menu at the right of the screen.  You will then be asked to fill in certain information.
 
-![](ajout_media.png)
+![](2.png)
+
+
 
 ### Mandatory fields
 
@@ -31,6 +35,8 @@ Once signed in as Administrator, you can select the option **Add a document** fr
 - Original (path to your file)
 - Credits (author of the media file)
 - Type (file type)
+
+![](3.png)
 
 ### Optional fields
 - Language
@@ -41,6 +47,10 @@ Once signed in as Administrator, you can select the option **Add a document** fr
 
 Editing a document is very simple.  Find the content you want to edit, and click on **Edit** at the top right of the page.  You will be taken to same menu as when you added the document, and can change the inputs.
 
+![](4.png)
+
 ## Delete a document
 
 To delete a document, simply click **Delete** at the top right of the page you want to remove.
+
+![](5.png)

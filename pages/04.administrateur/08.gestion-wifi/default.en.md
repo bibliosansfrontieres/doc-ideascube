@@ -4,7 +4,7 @@ title: 'Managing the WiFi'
 
 ![](wifi2.png)  
 
-The KoomBook can connect to an existing WI-FI network if you do not have an Ethernet cable.
+The KoomBook can connect to an existing WiFi network if you do not have an Ethernet cable.
 
 **This function enables you to:**
 

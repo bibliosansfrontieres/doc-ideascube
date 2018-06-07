@@ -4,7 +4,7 @@ title: 'Mass Import via CSV Files'
 
 _This option requires you to know how to use Linux._
 
-This option lets you mass import files to the Ideascube Media Center.  It is automated, and doesn't have a size limit.  However, it is inflexible and can be subject to errors.  Thus, it is necessary to copy your content to the machine running Ideascube.
+This option lets you mass import files to the Ideascube Media Center.  It is automated, and doesn't have a size limit.  However, it is inflexible and can be subject to errors.  It is also necessary to copy your content to the machine running Ideascube.
 
 ## Creating a CSV File
 

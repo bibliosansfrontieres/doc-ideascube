@@ -4,7 +4,7 @@ title: 'Server Name'
 
 ![](server_name_en.png)
 
-When you are logged on as an administrator, you can change the name of the server as appropriate to have a clear indication of its location or the way it is used.
+When you are logged on as an administrator, you can change the name of the server to have a clear indication of its location or the way it is used.
 
 The default name for the server is Ideas Cube, which is an indication of the operating system on which the server is running
 

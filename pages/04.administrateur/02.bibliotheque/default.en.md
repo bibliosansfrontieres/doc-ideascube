@@ -12,7 +12,7 @@ To use the Library application, you need to know the difference between a book a
 
 You must create a book before creating a copy. To do this in the Library application, click on the **Create a book** button.  _Note: this button only appears if you are signed in as an Administrator._
 
-You are thus creating a description of a book, including the title, author, ISBN number, cover picture, series, summary, sub-title, publishing house, a category (adult, children, theatre, novel, etc.), a language and tags.
+You are creating a description of a book, including the title, author, ISBN number, cover picture, series, summary, sub-title, publishing house, a category (adult, children, theatre, novel, etc.), a language and tags.
 
 ![](bibliotheque-exemplaire.png)
 

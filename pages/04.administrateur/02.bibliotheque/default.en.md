@@ -2,7 +2,7 @@
 title: 'The Library'
 ---
 
-Administrators can add, modify and remove books to the library, and add copies for each of the books.
+Administrators can add, modify and remove books in the library, and add copies for each of the books.
 
 ## Books and Copies
 

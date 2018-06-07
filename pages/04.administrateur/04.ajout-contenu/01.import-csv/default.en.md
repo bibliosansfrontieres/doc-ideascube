@@ -21,7 +21,7 @@ This file contains four columns:
 
 You can add a fifth column **tags** if you would like to specify the theme of the document.  With this column you can group together similar documents.
 
-The example below illustrates how a document is presented in the Media Center.
+The example below illustrates how a document appears in the Media Center.
 
 ![](2.png)
 

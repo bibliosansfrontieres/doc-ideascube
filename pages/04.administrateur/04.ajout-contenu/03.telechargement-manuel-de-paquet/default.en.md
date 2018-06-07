@@ -1,5 +1,5 @@
 ---
-title: 'Manually Download a Group of Files'
+title: 'Manually Download a Content Package'
 ---
 
 _This option requires you to know how to use Linux._

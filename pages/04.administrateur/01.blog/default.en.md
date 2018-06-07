@@ -34,4 +34,4 @@ Use the **Edit** button at the right of the page to modify a blog post.
 
 ## Delete a blog post
 
-To delete a post, once again click **Edit**.  From there, you can delete the post, which will be deleted once you confirm.
+To delete a post, once again click **Edit**.  From there, you can change the status of the post to **Deleted**.  Once you confirm, the post will be removed.

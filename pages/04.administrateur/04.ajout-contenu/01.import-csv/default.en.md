@@ -8,7 +8,7 @@ This option lets you mass import files to the Ideascube Media Center.  It is aut
 
 ## Creating a CSV File
 
-You can create a CSV file with a Google spreadsheet, [such as this one](https://docs.google.com/spreadsheets/d/1G9DqmYVnWkHVZBjcT-OjIRyAffx2sWSekoPf6uGYUPk/edit#gid=0).  Google Sheets lets you select what content you want to upload, and export it in CSV format.
+You can create a CSV file with a Google spreadsheet, [such as this one](https://docs.google.com/spreadsheets/d/1G9DqmYVnWkHVZBjcT-OjIRyAffx2sWSekoPf6uGYUPk/edit#gid=0).  This lets you select what content you want to upload, and export it in CSV format.
 
 ![](1.png)
 

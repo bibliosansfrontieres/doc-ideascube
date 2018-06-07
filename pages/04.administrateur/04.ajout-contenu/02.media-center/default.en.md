@@ -32,7 +32,7 @@ Once signed in as Administrator, you can select the option **Add a document** fr
 
 - Title
 - Summary
-- Original (path to your file)
+- File Name (path to your file)
 - Credits (author of the media file)
 - Type (file type)
 

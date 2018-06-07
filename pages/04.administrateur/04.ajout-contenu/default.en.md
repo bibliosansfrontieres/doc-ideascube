@@ -1,13 +1,14 @@
 ---
-title: 'Ajout de contenus dans le media-center'
+title: 'Adding Content in the Media Center'
 ---
 
-Aujourd’hui 3 méthodes co-existent pour ajouter du contenus dans le media-center d'Ideascube
+There are three methods to add content to the Media Center of the Ideascube.
 
-* [Upload d'un fichier manuellement](media-center/)
-* [Téléchargement manuel de paquets](telechargement-manuel-de-paquet/)
-* [Import en masse via fichier csv](import-csv/)
+* [Upload a File Manually](media-center/)
+* [Manual Download of a Zip File](telechargement-manuel-de-paquet/)
+* [Mass Import via CSV files](import-csv/)
 
-Ces trois méthode visent le même but : ajouter du contenu dans le media-center, cependant, une seule se révèle simple et accessible à tous : l'**Upload d'un fichier manuellement**, les 2 autres nécessiterons quelques connaissances en ligne de commandes linux
+Each method has the same result of adding content to the media center.  However, the only one that is simple and accessible for all is the **Upload a File Manually** uption.  The other two require some online skills and knowledge of linux commands.
+
 
 ![](Capture%20du%202018-03-13%2023-20-04.png)

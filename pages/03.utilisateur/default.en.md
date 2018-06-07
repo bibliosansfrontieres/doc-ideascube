@@ -2,7 +2,7 @@
 title: Users
 ---
 
-The user section of the interface can be accessed by everybody.
+The following sections of the interface can be accessed by all users.
 
 ## Blog
 

@@ -2,7 +2,7 @@
 title: 'Manually Download a Group of Files'
 ---
 
-_This option requires you to understand the administration of a Linux system._
+_This option requires you to know how to use Linux._
 
 Content packages can be file groupings within a ZIP archive, compressed statics sites, or ZIM format archives.  They can contain offline versions of Wikipedia and many other resources.
 

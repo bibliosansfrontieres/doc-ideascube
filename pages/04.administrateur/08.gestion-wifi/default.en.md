@@ -13,7 +13,7 @@ The KoomBook can connect to an existing WiFi network if you do not have an Ether
 
 ## Connecting to a WiFi network
 
-![](manage wifi.png)  
+![](manage_wifi.png)  
 
 Click on the WiFi network you wish to connect to. If this network is private (you will see a little black padlock), a password is required.
 

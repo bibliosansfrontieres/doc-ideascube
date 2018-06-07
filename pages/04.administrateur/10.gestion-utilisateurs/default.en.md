@@ -6,25 +6,6 @@ title: 'Managing Users'
  
 This section is used to create, modify or remove users. Each user with “staff” status is granted blog and media admin rights.  Use this section to find out how to add, edit and remove a user, as well as manage their status or change their password.
 
-## Adding Administrator Rights to a User
-
-If you have created a standard user (with no specific rights), you may want to grant new rights so that the user can, for example, add content to the Media Center.
-
-### Step 1
-![](Capture du 2016-05-25 12:26:30.png)
-
-In the main window of the user admin section, click on the user for whom you wish to change the status. 
-
-Here, for example, we are going to change the status of the **admin** account. Click on the **admin** link.
-
-### Step 2
-
-In the right-hand menu, click on **Add to team members**
-
-![](Capture du 2016-05-25 12:48:04.png)  
-
-Your user now enjoys administrator rights.
-
 ## Changing a User’s Password
 ### Step 1
 ![](Capture du 2016-05-25 12:26:30.png)

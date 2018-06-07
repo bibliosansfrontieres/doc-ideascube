@@ -62,7 +62,7 @@ ideascube@kb-cod-rfi-385 ~ $ ideascube import_medias /home/ideascube/medias/impo
 **ATTENTION**
 
 * Be sure to run this command with the user `ideascube`.  Click `su ideascube` to look under the user `ideascube`.  Notice the `ideascube@` prompt.  
-* Once you've finished the impot, you can delete the transferred `media` folder.
+* Once you've finished the import, you can delete the transferred `media` folder.
 * You can also connect an external drive/thumb drive to your machine and import by directly searching for the contents in the external drive, usually found in `/media/`.  If the external drive doesn't show up automatically, issue the command `sudo mount /dev/sda1 /media`
 
 

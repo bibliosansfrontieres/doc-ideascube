@@ -1,21 +1,23 @@
 ---
-title: 'Changez le mot de passe d''un utilisateur'
+title: 'Changing a User''s Password'
 ---
 
-## Etape 1
+### Step 1
 ![](1.png)
 
-Dans la fenêtre principal de la gestion des utilisateurs, cliquez sur l'utilisateur pour lequel vous souhaitez changer le mot de passe.   
-Ici par exemple nous allons changer le mot de passe du compte **admin**. Cliquez donc sur le lien **admin**
+In the main window of the user admin section, click on the user for whom you wish to change the password. 
 
-## Etape 2
-Sur le menu de droite, cliquez sur **Définir le mot de passe**
+Here, for example, we are going to change the password of the **admin** account. Click on the **admin** link.
+
+### Step 2
+In the right-hand menu, click on **"Set password"**
 
 ![](2.png)
 
-## Etape 3
-Dans cette nouvelle fenêtre, entrez dans chaque case, le nouveau mot de passe. Une fois terminé cliquez sur le bouton **Envoyer**
+### Step 3
+
+In this new window, enter the new password in each box. When finished, click on the **Submit** button.
 
 ![](3.png)
 
-**/!\ ATTENTION** : Pour créer un bon mot de passe, oubliez les mots de passe, et cherchez plutôt des phrases. Par exemple: "Le bateau flotte sur la rivière" est une bonne phrase de passe, facile à retenir. Maintenant choisissez une phrase de passe!
+>>>>>>To create a strong password, forget passwords and look for passphrases instead. For example: "The boat floats on the river" is a good passphrase that is easy to remember. Now, select your own passphrase!

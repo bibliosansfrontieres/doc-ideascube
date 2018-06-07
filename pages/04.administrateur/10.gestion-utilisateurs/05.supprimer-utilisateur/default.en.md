@@ -1,16 +1,21 @@
 ---
-title: 'Supprimer un utilisateur'
+title: 'Deleting a User'
 media_order: 'users.png,modifier.png'
 ---
 
-## Etape 1
-![](users.png)
+### Step 1
+![](users.png)  
 
-Dans la fenêtre principal de la gestion des utilisateurs, cliquez sur l'utilisateur pour lequel vous souhaitez changer le mot de passe.   
-Ici par exemple nous allons changer le mot de passe du compte **demo**. Cliquez donc sur le lien **demo**
+In the main window of the user admin section, click on the user you wish to remove. 
 
-## Etape 2
-Sur le menu de droite, cliquez sur **Supprimer**  
+Here, for example, we are going to delete the **admin** account. Click on the **admin** link.
+
+### Step 2
+
+In the right-hand menu, click on **Remove**
+
 ![](modifier.png)
-## Etape 3
-Confirmez la suppression de l'utilisateur en cliquant sur **Oui**  
+
+### Step 3
+
+Confirm the deletion of the user by clicking on **Yes**

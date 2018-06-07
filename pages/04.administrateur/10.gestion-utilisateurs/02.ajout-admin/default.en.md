@@ -1,17 +1,20 @@
 ---
-title: 'Ajouter les droits administrateur à un utilisateur'
+title: 'Adding Administrative Rights to a User'
 ---
 
-Si vous avez créé un utilisateur standard (sans droits spéciaux), vous souhaitez peut être lui attribuer de nouveaux droits pour qu'il puisse par exemple ajouter du contenu dans le média center. 
-## Etape 1
+If you have created a standard user (with no specific rights), you may want to grant new rights so that the user can, for example, add content to the Media Center.
+
+### Step 1
 ![](1.png)
 
-Dans la fenêtre principal de la gestion des utilisateurs, cliquez sur l'utilisateur pour lequel vous souhaitez changer le mot de passe.   
-Ici par exemple nous allons changer le mot de passe du compte **admin**. Cliquez donc sur le lien **admin**
+In the main window of the user admin section, click on the user for whom you wish to change the status. 
 
-## Etape 2
-Sur le menu de droite, cliquez sur **Ajouter aux membres de l'équipe**  
+Here, for example, we are going to change the status of the **admin** account. Click on the **admin** link.
+
+### Step 2
+
+In the right-hand menu, click on **Add to team members**
 
 ![](2.png)  
 
-Votre utilisateur possède maintenant les droits administrateurs 
+Your user now enjoys administrator rights.

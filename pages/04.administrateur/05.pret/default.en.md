@@ -1,10 +1,12 @@
-# Loans
+---
+title: Loans
+---
 
-It is possible to loan any item saved in the Ideas Box Stock application.
+You can loan any item saved in the Ideas Box Stock application.
 
-Once all your devices are listed in the Ideascube Stock application, you can loan them to users listed in the "users" application.
+Once all of your devices are listed in the Ideascube Stock application, you can loan them to users listed in the "users" application.
 
-## Loans for books, e-readers, tablets, computers, etc.
+## Loans for Books, E-Readers, Tablets, Computers, etc.
 
 
 ![](pret.png)

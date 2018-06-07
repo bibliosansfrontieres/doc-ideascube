@@ -29,7 +29,7 @@ The example below illustrates how a document is presented in the Media Center.
 
 ## Exporting as a CSV File
 
-Once your file is complete, export it as a csv file.  Rename the file **import.csv** without no spaces. 
+Once your file is complete, export it as a csv file.  Rename the file **import.csv** without spaces. 
 
 ![](3.png)
 

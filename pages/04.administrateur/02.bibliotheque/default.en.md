@@ -37,7 +37,7 @@ You can import several books at once in the Library via the **import catalogue**
 - csv files from [Moccam en ligne](http://www.moccam-en-ligne.fr/)
 - a catalogue in unimarc format
 
->>>We recommend the first two options: importing from a catalogue in Ideascube format or importing using ISBN numbers.
+>>>>>>We recommend the first two options: importing from a catalogue in Ideascube format or importing using ISBN numbers.
 
 To import from a catalogue in Ideascube format: select the option **"zip ideascube"**, click on "browse" to select the zip file, then click on "Charger des notices depuis un fichier" (Load catalogue from a file). This option is only useful if you wish to import a catalogue from another Ideascube software. In order to do this, you will have had to have already exported the files from another Ideascube. This is done via the option "export a catalogue". The export is in zip file format.
 

@@ -1,59 +1,59 @@
 ---
-title: 'Import en masse via fichier csv'
+title: 'Mass Import via CSV Files'
 ---
 
-_Cette méthode requiert des compétences dans l'administration d'un système d'exploitation Linux._
+_This option requires you to know how to use Linux._
 
-La méthode par fichier CSV vous permet d'importer en masse des fichiers dans le media-center d'Ideascube, elle est automatisé, ne comporte pas de limite de taille pour l'import mais a l'inconvénient d'être très peu flexible et sujet à beaucoup d'erreurs, il faut par ailleurs que vous copiez l'ensemble de votre contenu sur la machine faisant fonctionner Ideascube
+This option lets you mass import files to the Ideascube Media Center.  It is automated, and doesn't have a size limit.  However, it is inflexible and can be subject to errors.  Thus, it is necessary to copy your content to the machine running Ideascube.
 
-## Création du fichier CSV
+## Creating a CSV File
 
-[Un fichier CSV est disponible sur un Google Spreadsheet partagé](https://docs.google.com/spreadsheets/d/1G9DqmYVnWkHVZBjcT-OjIRyAffx2sWSekoPf6uGYUPk/edit#gid=0), il vous permettra de réaliser votre séléction de contenu et de télécharger le fichier au format CSV.
+You can create a CSV file with a Google spreadsheet, [such as this one](https://docs.google.com/spreadsheets/d/1G9DqmYVnWkHVZBjcT-OjIRyAffx2sWSekoPf6uGYUPk/edit#gid=0).  Google Sheets lets you select what content you want to upload, and export it in CSV format.
 
 ![](1.png)
 
-Ce fichier contient 4 colonnes :
+This file contains four columns:
 
-1. **title **doit être un titre court de quelques caractères
-2. **summary **est la description visible lorsque l'on consulte le document
-3. **path **est le nom du fichier choisie avec son extension \(.jpg, .avi, etc.\)
-4. **lang** est la langue dans laquelle le media est réalisé, **sur 2 lettres uniquement, ec : fr , en, es, ar...**
+1. **title**: Must be a short title
+2. **summary**: Description that will be visible when you see the document
+3. **path**: the name of the selected content, with its extension \(.jpg, .avi, etc.\)
+4. **lang**: language of the content **in only two letters**.  Ex: fr, en, es, ar...
 
-Vous pouvez ajouter une 5eme colonne optionnelle **tags** pour spécifier la thématique du fichier, vous pouvez ainsi lier plusieurs fichiers à la même thématique
+You can add a fifth column **tags** if you would like to specify the theme of the document.  With this column you can group together similar documents.
 
-L'exemple ci-dessous illustre un média présenté dans le media-center
+The example below illustrates how a document is presented in the Media Center.
 
 ![](2.png)
 
-**Il faut donc ajouter une ligne par fichier, il n'y a pas de limite de ligne**
+**You must add a new line for each document, but there is no limit to the number of documents you can add**
 
-## Export du fichier CSV
+## Exporting as a CSV File
 
-Une fois que votre fichier csv est complet, exportez le au format csv, veillez à renommer le fichier en **import.csv **sans espace
+Once your file is complete, export it as a csv file.  Rename the file **import.csv** without no spaces. 
 
 ![](3.png)
 
-## Rassembler les fichiers
+## Retrieve the Content
 
-1. Créez un dossier `medias` 
-2. Copiez tous les fichiers à importer dans le dossier `medias`
-3. Copiez votre fichier `imports.csv`dans le dossier `medias`
+1. Create a folder called `media` 
+2. Copy all the files you want to import to the `media` folder 
+3. Copy your file `imports.csv` to the `media` folder 
 
-A ce stade vous devriez avoir cette arborescence
+At this point, you should have this tree:
 
 ```
-| medias
-|_ photo.jpg
-|_ movie.avi
-|_ imports.csv
+| media
+	|_ photo.jpg
+	|_ movie.avi
+	|_ imports.csv
 ```
 
-## Transférez les fichiers et lancer l'import
+## Transferring the Files and Starting the Import
 
-Il faut maintenant transférer les fichiers sur la machine exécutant Ideascube. Généralement cela se fait avec un utilitaire tel que SCP, sous windows [WinSCP](https://winscp.net/eng/download.php) fera très bien le travail
+Now, it is time to transfer the documents to the machine running Ideascube.  Generally, software like SCP (for Windows: [WinSCP](https://winscp.net/eng/download.php)) will do the job very well.
 
-1. A l'aide de WinSCP, transférez le dossier `medias` dans le dossier`/home/ideascube/` de votre machine exécutant Ideascube
-2. Connectez vous à l'aide de SSH à votre machine exécutant Ideascube et lancer la commande suivante 
+1. With the help of WinSCP, transfer the `media` folder to the folder `/home/ideascube/` on the machine running Ideascube.
+2. With the help of SSH, connect to the machine running Ideascube and use the following command:
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube import_medias /home/ideascube/medias/imports.csv
@@ -61,10 +61,9 @@ ideascube@kb-cod-rfi-385 ~ $ ideascube import_medias /home/ideascube/medias/impo
 
 **ATTENTION**
 
-* Veillez impérativement à lancer cette commande avec l'utilisateur `ideascube`. Tappez `su ideascube` pour passer sous l'utilisateur `ideascube`, remarquez le prompt  `ideascube@`
-* Une fois l'import réalisé, vous pouvez supprimer le dossier `medias` transféré.
-* Vous pouvez également connecter un disque externe / clé USB à votre machine exécutant Ideascube et procéder à l'import en allant chercher directement le contenu dans le disque externe généralement monté dans `/media/...`.
-Si le montage de votre de votre disque externe n'est pas automatique, lancez la commande `sudo mount /dev/sda1 /media`
+* Be sure to run this command with the user `ideascube`.  Click `su ideascube` to look under the user `ideascube`.  Notice the `ideascube@` prompt.  
+* Once you've finished the impot, you can delete the transferred `media` folder.
+* You can also connect an external drive/thumb drive to your machine and import by directly searching for the contents in the external drive, usually found in `/media/`.  If the external drive doesn't show up automatically, issue the command `sudo mount /dev/sda1 /media`
 
 
 

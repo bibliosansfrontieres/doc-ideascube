@@ -2,7 +2,7 @@
 title: Stock
 ---
 
-Administrators can manage the inventory of all items in the Ideas Box through the **Stock** application. Managing an inventory is essential to know the status of resources in an Ideas Box and to wee which supplies, books, computers or tablets are available, awaiting repair, on loan, or need to be to be repurchased.
+Administrators can manage the inventory of all items in the Ideas Box through the **Stock** application. Managing an inventory is essential to know the status of resources in an Ideas Box and to see which supplies, books, computers or tablets are available, awaiting repair, on loan, or need to be to be repurchased.
 
 Stock is organised into 5 sections: one per module and a "miscellaneous" section. When you conduct an inventory of your Ideas Box, it is easier to do so one module at a time.
 

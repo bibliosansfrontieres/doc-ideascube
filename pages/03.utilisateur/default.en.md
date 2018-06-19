@@ -48,7 +48,7 @@ Depending on the project, various applications are installed. Here are a few exa
 
 ![](menu_application.png)
 
-- **BSF Campus**: Building program for librarians
+- **BSF Campus**: Training program for librarians
 - **Wikipedia**: Collective, universal, multilingual encyclopedia, using the wiki principle 
 - **Khan Academy**: Free set of more than 2200 video mini-lessons on a variety of themes with a focus on mathematics
 

@@ -14,7 +14,7 @@ Once all of your devices are listed in the Ideascube Stock application, you can 
 To loan an item to a user, such as a book, tablet, e-reader or computer:
 
 - Enter the item’s barcode (usually there is a label with a barcode on Ideas Box devices) or scan the barcode using the USB scanner.
-- Enter the name of the user to whom the item is to be loaned – you can only lend items to users who are already listed in the Ideas Box – to find the name of users, see their card or consult the "users" application in the Ideascube.
+- Enter the name of the user to whom the item is to be loaned – you can only lend items to users who are already listed in the Ideas Box.  To find the the user's name, see their card or consult the "users" application in the Ideascube.
 - Enter the due date.
 
 Any item fitted with a barcode may be loaned.

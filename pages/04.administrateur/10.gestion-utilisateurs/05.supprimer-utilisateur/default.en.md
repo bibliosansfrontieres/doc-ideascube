@@ -8,7 +8,7 @@ media_order: 'users.png,modifier.png'
 
 In the main window of the user admin section, click on the user you wish to remove. 
 
-Here, for example, we are going to delete the **admin** account. Click on the **admin** link.
+Here, for example, we are going to delete the **demo** account. Click on the **demo** link.
 
 ### Step 2
 

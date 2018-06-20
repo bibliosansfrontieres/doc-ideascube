@@ -45,7 +45,7 @@ Once signed in as Administrator, you can select the option **Add a document** fr
 
 ## Modify a document
 
-Editing a document is very simple.  Find the content you want to edit, and click on **Edit** at the top right of the page.  You will be taken to same menu as when you added the document, and can change the inputs.
+Editing a document is very simple.  Find the content you want to edit, and click on **Edit** at the top right of the page.  You will be taken to the same menu as when you added the document, and can change the inputs.
 
 ![](4.png)
 

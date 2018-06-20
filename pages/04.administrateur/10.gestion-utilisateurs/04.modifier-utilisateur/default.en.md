@@ -18,6 +18,6 @@ In the right-hand menu, click on **Modify**
 
 ### Step 3
 
-In this new window, you can modify information. Click on **Submit** to save your changes.
+In this new window, you can modify information, like their full name or username. Click on **Submit** to save your changes.
  
 ![](modifier_user.png)

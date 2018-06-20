@@ -8,7 +8,7 @@ media_order: 'users.png,modifier.png,modifier_user.png'
 
 In the main window of the user admin section, click on the user you wish to edit. 
 
-Here, for example, we are going to edit the **admin** account. Click on the **admin** link.
+Here, for example, we are going to edit the **demo** account. Click on the **demo** link.
 
 ### Step 2
 

@@ -70,7 +70,7 @@ The Ideascube command can accept as many packages as you would like in an argume
 **Important Information**
 
 * Check the `size` of your file, and make sure the internet connection is adequate.  The more content you add, the longer it will take to download.
-* Make sure you have at least twice the space necessary available in your storage space
+* Make sure you have at least twice the space necessary to download the package available in your storage
 * For each package installed, a link on the welcome page will be created.  If you want to deactivate this see: [Managing the Homepage](/gestion_de_la_page_daccueil.md)
 
 ## Deleting a Package

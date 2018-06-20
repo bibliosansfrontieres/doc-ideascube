@@ -54,7 +54,7 @@ ideascube@kb-cod-rfi-385 ~ $ ideascube catalog list | more
 
 Each packet is presented like this:
 
-| Nom du paquet | Version \(date\) | Size | Type | Description |
+| Name of Package | Version \(date\) | Size | Type | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | apprenez-le-francais-niveau-a1-fr | 2017-10-27 | 549.0 MB | zipped-medias | Apprenez le français - Niveau A1 |
 | wikipedia.sw | 2017-01-09 | 498.7 MB | zipped-zim | Wikipedia |

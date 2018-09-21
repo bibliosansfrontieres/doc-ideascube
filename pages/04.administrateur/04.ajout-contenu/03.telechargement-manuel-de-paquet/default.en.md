@@ -39,6 +39,10 @@ ideascube@kb-cod-rfi-385 ~ $ ideascube catalog remotes -h
 The argument **-h** allows you to view the list of actions to manage the catalogue (add, delete, list)
 
 ## Listing Available Content
+### Update catalog cache 
+```
+ideascube@kb-cod-rfi-385 ~ $ ideascube catalog cache update
+```
 
 To list all of the content available in the catalogues, you can run this command: 
 
@@ -60,6 +64,13 @@ Each packet is presented like this:
 | wikipedia.sw | 2017-01-09 | 498.7 MB | zipped-zim | Wikipedia |
 
 ## Installing a Content Package
+
+### Update catalog cache 
+```
+ideascube@kb-cod-rfi-385 ~ $ ideascube catalog cache update
+```
+
+### Install new packages
 
 ```
 ideascube@kb-cod-rfi-385 ~ $ ideascube catalog install apprenez-le-francais-niveau-a1-fr wikipedia.sw

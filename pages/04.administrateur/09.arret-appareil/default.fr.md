@@ -2,7 +2,7 @@
 title: 'Arrêt de l''appareil'
 ---
 
->>>>> Pour l'Ideascube matériel suivre cette procédure : http://ideascube-hardware.doc.bibliosansfrontieres.org/en/start_stop
+>>>>> Pour l'Ideascube matériel référez vous à la procédure [Arrêt / Démarrage](http://ideascube-hardware.doc.bibliosansfrontieres.org/en/start_stop) de la documentation de l'[Ideascube matériel](http://ideascube-hardware.doc.bibliosansfrontieres.org) 
 
 ![](cartesAdmin-2.jpg)
 

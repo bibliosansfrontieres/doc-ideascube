@@ -2,6 +2,8 @@
 title: 'Arrêt de l''appareil'
 ---
 
+>>>>> Pour l'Ideascube matériel suivre cette procédure : http://ideascube-hardware.doc.bibliosansfrontieres.org/en/start_stop
+
 ![](cartesAdmin-2.jpg)
 
 **La rubrique « Arrêter/redémarrer »** apparaît lorsque vous êtes connecté en tant qu'Administrateur. C'est le seul et unique endroit pour arrêter l'appareil.

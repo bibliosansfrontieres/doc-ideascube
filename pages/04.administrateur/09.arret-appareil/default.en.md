@@ -2,6 +2,8 @@
 title: 'Stopping the Device'
 ---
 
+>>>>> For Ideascube hardware please refer to [Start / Stop](http://ideascube-hardware.doc.bibliosansfrontieres.org/en/start_stop) procedure from [Ideascube hardware](http://ideascube-hardware.doc.bibliosansfrontieres.org) documentation
+
 ![](cartesAdmin-2.jpg)
 
 The **STOP/RESTART** function appears when you are connected as an Administrator. This is the only way to turn off the device. 

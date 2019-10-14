@@ -4,7 +4,7 @@ title: 'Les prêts'
 
 Il est possible de prêter tout item enregistré dans l'application Stock de l'ideas box.
 
-Une fois tous vos équipements répertoriés dans [l'application Stock](le_stock.html) d'ideascube, vous pouvez les prêter aux utilisateur enregistrés dans l'application "utilisateurs". 
+Une fois tous vos équipements répertoriés dans [l'application Stock](../le_stock.html) d'ideascube, vous pouvez les prêter aux utilisateur enregistrés dans l'application "utilisateurs". 
 
 ## Prêter un livre, une liseuse, une tablette, un ordinateur...
 

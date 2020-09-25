@@ -12,4 +12,4 @@ This is done through the following steps:
 - In the URL bar, enter the URL of the server: **http://ideasbox**. You will be redirected to the graphical interface of the server and you can browse all the options available for you.
 
 
->>>>>If you have a problem with accessing the site through the URL **http://ideasbox**, make sure that you are connected to the server's wireless network, and that the address begins with ** http://ideasbox **
+>>>>>If you have a problem with accessing the site through the URL **http://ideasbox**, make sure that you are connected to the server's wireless network, and that the address begins with **http://ideasbox**
